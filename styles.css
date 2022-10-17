@@ -180,3 +180,12 @@ button {
     margin-right: auto;
     margin-left: auto;
 }
+
+.section-five {
+    display: flex;
+    width: 100vw;
+    color: white;
+    justify-content: center;
+    padding: 20px;
+    background-color: #1F2937;
+}
